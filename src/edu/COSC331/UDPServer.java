@@ -10,6 +10,7 @@ import java.util.HashSet;
 /**
  * Class which hosts a server for clients to connect to.
  * @author crcrowe0, emjetton0
+ * 11/16/18 - 11:43AM
  */
 public class UDPServer {
     static DatagramSocket socket;
